@@ -13,7 +13,7 @@ Welcome to **Datafy** — it answers all your questions about recent social medi
 ---
 
 ## Model Architecture  
-![Demo 5](./images/image5.png)  
+![Demo 5](./images/image5.jpg)  
 The agent workflow is built on **Autogen** instead of LangChain or LangGraph for more seamless chat-like interaction between agents.  
 
 - This allows agents to iterate over the same piece of code in case of error or improper output.  
